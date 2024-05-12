@@ -7,4 +7,4 @@
 # INSTALL SCRIPT
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/luislis98/ScLt/main/main.sh && chmod +x main.sh && ./main.sh</code></pre>
 
-© <i>Silver Tunneling</i>
+© <b>Silver Tunneling</b>
